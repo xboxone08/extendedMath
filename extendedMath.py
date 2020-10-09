@@ -6,7 +6,7 @@ simple function call that does all that for you.
 Although these are probably in numpy, the numpy library is huge, and filled with
 stuff that you probably don't need for quick mathematical calculations. This single filed,
 native, Python module is small, and copy-pastable. To suggest more functions, please email
-me at choudhuryme123@outlook.com!
+me at sondad2008@gmail.com!
 """
 try:
     print(R"      \  /                                                _____        |||")
