@@ -61,8 +61,6 @@ try:
 
 
     def median(*args, **kwargs):
-        args = set(args)
-        args = list(args)
         args.sort()
         # If float
         if ".5" not in str(len(args) / 2):
