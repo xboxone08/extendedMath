@@ -8,3 +8,5 @@ Although these are probably in numpy, the numpy library is huge, and filled with
 stuff that you probably don't need for quick mathematical calculations. This single filed,
 native, Python module is small, and copy-pastable. To suggest more functions, please submit a request in issues
 or make a pull request!
+
+There are definitely bugs. Guaranteed.
